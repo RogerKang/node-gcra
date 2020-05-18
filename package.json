@@ -1,0 +1,24 @@
+{
+  "name": "node-gcra",
+  "version": "1.0.0",
+  "description": "An nodejs implementation of GCRA(Generic Cell Rate Algorithm) based on memory, redis or any custom way for rate limiting.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RogerKang/node-gcra.git"
+  },
+  "keywords": [
+    "node",
+    "gcra",
+    "redis"
+  ],
+  "author": "RogerKang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RogerKang/node-gcra/issues"
+  },
+  "homepage": "https://github.com/RogerKang/node-gcra#readme"
+}
